@@ -29,5 +29,5 @@ Now Deploy
 [`HERE'S AN EXAMPLE OUTPUT`](https://rocky-island-03936-e838a70c5a0f.herokuapp.com/)
 # `Owner`
 
- <a href="https://github.com/kashmiricrasher"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
+ <a href="https://github.com/kashmiricrasher"><img src="https://github.com/kashmiricrasher.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
 
