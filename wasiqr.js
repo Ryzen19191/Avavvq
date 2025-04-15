@@ -70,7 +70,7 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@MOHSIN-BOTZ_
 ║❒ *Owner:* _https://wa.me/92325516992_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
+║❒ *Repo:* _https://github.com/kashmiricrasher/KASHMIRI-MD_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b_
 ║❒ *Plugins:* _https://github.com/Kashmiricrasher 
 ╚════════════════════════╝
